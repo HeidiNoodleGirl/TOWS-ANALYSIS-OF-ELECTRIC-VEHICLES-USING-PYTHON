@@ -1,4 +1,4 @@
-# TOWS Analysis of Electric Vehicles using Python
+# TOWS Analysis on Electric Vehicles using Python
 
 This project involves the creation of a Jupyter notebook to perform a TOWS analysis and report recommended actions to senior stakeholders of a business supplying hire vehicles to tourists in QLD.
 
